@@ -28,4 +28,4 @@ I'm currently seeking opportunities in **Data Analytics, Reporting, Data & Syste
 ---
 
 📍 Derbyshire, UK  
-🔗 [LinkedIn](YOUR-LINKEDIN-LINK)
+🔗 [LinkedIn](www.linkedin.com/in/gemma-vickerage)
