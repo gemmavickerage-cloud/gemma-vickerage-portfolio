@@ -1,17 +1,17 @@
 # Employee Absence & Attendance Analysis
-*Business Problem*
+# Business Problem
 Northstar Distribution Group is a large UK organisation employing approximately 2,500 people across multiple departments, locations and shift patterns.
 Senior leadership has noticed that employee absence has become a growing operational concern. Absence levels appear to vary considerably between departments, locations and working patterns, but the organisation currently lacks a clear, centralised view of the data.
 
-*Project Objective*
+# Project Objective
 To analyse 12 months of employee absence data across Northstar Distribution Group, identify key trends and patterns, and provide leadership with actionable insights into the scale, causes and distribution of absence.
 The project will involve data-quality assessment and cleansing using SQL, analytical modelling and visualisation using Power BI, and the development of evidence-based recommendations.
 
-*Tools* 
+# Tools
 - SQL: Data Cleansing
 - PowerBI: Data Transformations and Visualisation
 
-*Data Visualisation Approach*
+# Data Visualisation Approach
 Key Visualisation Choices;
 •	KPI Cards Used to present core metrics such as total absence days, number of absence records, average duration, absence rate, and number of employees with absence. KPI cards provide immediate, high level insight and act as entry points for deeper analysis.
 •	Line Chart (Absence Trend Over Time) A 12 month line chart was used to show how absence days fluctuate month to month. This helps identify seasonal patterns, spikes, or improvements over time.
@@ -23,3 +23,13 @@ Key Visualisation Choices;
 
 Outcome:
 The final dashboard provides a clear, interactive, and insightful view of absence trends across the organisation. Leaders can quickly identify patterns, compare departments or locations, and understand the drivers behind absence levels.
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/34d8bb9d-9608-4656-8bf8-6860adc68758" />
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/41c252bf-2435-458f-8a9a-8bc12f28b142" />
+
+# Recommendations
+- Provide additional support for cold and flu cases including provision of flu jabs
+- Providing support for mental health amongst company benefits and promote the employee assistance programme.
+- Implement short term and long term health policies
+- Conduct reviews in Derby and Engineering as the highest absence location/department respectively, to understand if enough support is being provided by management.
+- Manage seasonal peaks in absence via staffing (March, May, November)
+- 
