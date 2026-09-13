@@ -23,6 +23,7 @@ Key Visualisation Choices;
 
 Outcome:
 The final dashboard provides a clear, interactive, and insightful view of absence trends across the organisation. Leaders can quickly identify patterns, compare departments or locations, and understand the drivers behind absence levels.
+
 <img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/34d8bb9d-9608-4656-8bf8-6860adc68758" />
 <img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/41c252bf-2435-458f-8a9a-8bc12f28b142" />
 
