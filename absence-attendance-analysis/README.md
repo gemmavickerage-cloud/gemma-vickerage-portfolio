@@ -46,7 +46,8 @@ Outcome
 The final dashboard provides a clear, interactive, and insightful view of absence trends across the organisation. Leaders can quickly identify patterns, compare departments or locations, and understand the drivers behind absence levels.
 
 # 📸 Dashboard Screenshots
-(Add your images here — e.g., /images/overview.png, /images/top5.png)
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/1c4dc2ee-6854-4dcf-9746-50967d49dc66" />
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/8f39bd07-f6a6-4b8e-b052-c5fd7ea02d54" />
 
 # 📌 Recommendations
 Provide additional support for cold and flu cases, including flu jab provision.
