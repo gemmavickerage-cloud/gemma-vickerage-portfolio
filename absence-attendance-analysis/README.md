@@ -32,4 +32,27 @@ The final dashboard provides a clear, interactive, and insightful view of absenc
 - Implement short term and long term health policies
 - Conduct reviews in Derby and Engineering as the highest absence location/department respectively, to understand if enough support is being provided by management.
 - Manage seasonal peaks in absence via staffing (March, May, November)
-- 
+
+# Next Steps
+If I had more time and relevant data I would add the following; 
+1. Monthly and Seasonal Analysis
+Introduce more detailed month‑by‑month breakdowns to help managers anticipate upcoming peaks based on historical patterns. This would support resource planning, overtime allocation, and wellbeing initiatives during high‑risk periods.
+
+3. Year‑on‑Year Comparison
+Once future years of data become available, add year‑on‑year visuals to identify whether absence trends are improving, worsening, or remaining stable. This would enable long‑term performance tracking and evaluation of interventions.
+
+5. Enhanced Employee‑Level Insights
+Expand employee‑specific analysis by incorporating additional demographic fields such as age groups, tenure groups, or contract types. This would allow more granular segmentation and help identify whether certain workforce groups are more prone to absence.
+
+7. Policy Monitoring and Compliance
+If new absence policies are introduced, integrate policy markers into the dashboard. This could include indicators showing when employees have triggered policy thresholds and whether appropriate actions (e.g., return‑to‑work meetings, occupational health referrals) have been completed.
+
+9. Manager and Team‑Level Context
+With more employee data, tooltips or drill‑through pages could include manager information, team structure, or department hierarchy. This would make it easier to identify where additional managerial support or intervention may be required.
+
+11. Predictive or Forecasting Models
+With sufficient historical data, simple forecasting models could be added to predict future absence levels. This would support proactive planning and help identify emerging risks before they materialise.
+
+13. Root‑Cause Exploration
+If more detailed absence reasons or HR case notes become available, deeper diagnostic analysis could be performed to understand underlying causes, patterns of recurrence, or links to workload, seasonality, or organisational change.
+
