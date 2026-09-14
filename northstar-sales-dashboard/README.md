@@ -2,13 +2,13 @@
 
 🚧 **Project in progress**
 
-## Project Overview
+## Business Problem
 
 This project explores sales performance data for Northstar to identify trends, patterns and key business insights.
 
 The analysis is being developed into an interactive Power BI dashboard designed to make sales performance easier to understand and support data-driven decision-making.
 
-## Objectives
+## Project Objective
 
 The dashboard aims to explore:
 
@@ -30,7 +30,7 @@ The dashboard aims to explore:
 
 The data is being cleaned and transformed using Power Query before being modelled in Power BI.
 
-## Dashboard
+## Dashboard Screenshots
 
 The interactive dashboard is currently under development.
 
