@@ -1,49 +1,20 @@
-# Northstar Sales Dashboard
+# Employee Absence & Attendance Analysis
+# 📌 Business Problem
 
-🚧 **Project in progress**
+# 📌 Project Objective
 
-## Business Problem
+# 🛠 Tools Used
+- Power BI — Data cleansing, data modelling, transformation, and visualisation
 
-This project explores sales performance data for Northstar to identify trends, patterns and key business insights.
+# 📊 Data Visualisation Approach
+Key Visualisation Choices
 
-The analysis is being developed into an interactive Power BI dashboard designed to make sales performance easier to understand and support data-driven decision-making.
+Outcome
 
-## Project Objective
 
-The dashboard aims to explore:
+# 📸 Dashboard Screenshots
 
-- Overall sales performance
-- Sales trends over time
-- Product performance
-- Customer and order activity
-- Regional performance
-- Key performance indicators (KPIs)
+# 📌 Recommendations
 
-## Tools
 
-- Power BI
-- Power Query
-- DAX
-- Excel
-
-## Data Preparation
-
-The data is being cleaned and transformed using Power Query before being modelled in Power BI.
-
-## Dashboard Screenshots
-
-The interactive dashboard is currently under development.
-
-*Dashboard visuals and final layout to be completed.*
-
-## Key Insights
-
-*To be completed as the analysis develops.*
-
-## Recommendations
-
-*To be completed.*
-
-## Project Status
-
-**In progress** — continuing to develop the data model, dashboard and analysis.
+# 📈 Next Steps (Future Enhancements)
