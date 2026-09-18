@@ -47,12 +47,15 @@ The dashboard brings together sales, returns, product, store and date data to an
 
 ### 📸 Dashboard Screenshots
 
-<img width="2308" height="1298" alt="image" src="https://github.com/user-attachments/assets/3d5a4863-8c27-4e3b-bcaa-d17ca1459ef8" />
+<img width="2320" height="1302" alt="image" src="https://github.com/user-attachments/assets/191f700c-eee3-4b6b-9e46-b6dd42d76ca0" />
 <img width="2322" height="1292" alt="image" src="https://github.com/user-attachments/assets/438882a1-4c06-4cc8-9449-641e5d8c2443" />
 <img width="2316" height="1300" alt="image" src="https://github.com/user-attachments/assets/390bed22-7d22-4f73-b188-026de1c6bfd0" />
 <img width="2320" height="1302" alt="image" src="https://github.com/user-attachments/assets/28c258b2-4cc7-4f39-90c8-e1ea96a54abe" />
+<img width="748" height="710" alt="image" src="https://github.com/user-attachments/assets/768acfa3-c0a3-4c2d-b2dc-ab506ce035af" />
 
 ### 📌 Recommendations
+1. Reassess current sales targets to ensure they are based on realistic potential sales
+2. 
 
 ### 📈 Next Steps (Future Enhancements)
 ## Next Steps
