@@ -53,9 +53,6 @@ The dashboard brings together sales, returns, product, store and date data to an
 <img width="2320" height="1302" alt="image" src="https://github.com/user-attachments/assets/28c258b2-4cc7-4f39-90c8-e1ea96a54abe" />
 <img width="748" height="710" alt="image" src="https://github.com/user-attachments/assets/768acfa3-c0a3-4c2d-b2dc-ab506ce035af" />
 
-### 📌 Recommendations
-1. Reassess current sales targets to ensure they are based on realistic potential sales
-2. 
 
 ### 📈 Next Steps (Future Enhancements)
 ## Next Steps
