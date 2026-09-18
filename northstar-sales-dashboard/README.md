@@ -1,4 +1,4 @@
-## Project Overview
+## 📌 Project Overview
 
 This project is an interactive Power BI sales and returns dashboard designed to provide insight into business performance across regions, products and time.
 
@@ -13,7 +13,7 @@ The dashboard brings together sales, returns, product, store and date data to an
 - **Time-Based Trends** – Analyse sales and returns over time to identify patterns and changes in performance.
 - **Targets** – Compare actual sales against monthly and regional targets.
 
-### Dashboard Features
+### 🛠 Dashboard Features
 
 - Interactive slicers for filtering the report
 - Slicers synchronised across multiple report pages
@@ -24,7 +24,7 @@ The dashboard brings together sales, returns, product, store and date data to an
 - Drill-down and cross-filtering between visuals
 - DAX measures for calculated metrics and analysis
 
-### Technical Skills Demonstrated
+### 📊 Technical Skills Demonstrated
 
 **Power BI**
 - Data modelling
@@ -45,14 +45,13 @@ The dashboard brings together sales, returns, product, store and date data to an
 - `USERELATIONSHIP`
 - Filter context manipulation
 
-### Business Questions
+### 📸 Dashboard Screenshots
 
-The dashboard was developed to answer questions such as:
+<img width="2308" height="1298" alt="image" src="https://github.com/user-attachments/assets/3d5a4863-8c27-4e3b-bcaa-d17ca1459ef8" />
+<img width="2322" height="1292" alt="image" src="https://github.com/user-attachments/assets/438882a1-4c06-4cc8-9449-641e5d8c2443" />
+<img width="2316" height="1300" alt="image" src="https://github.com/user-attachments/assets/390bed22-7d22-4f73-b188-026de1c6bfd0" />
+<img width="2320" height="1302" alt="image" src="https://github.com/user-attachments/assets/28c258b2-4cc7-4f39-90c8-e1ea96a54abe" />
 
-1. How are sales performing against targets?
-2. Which regions are performing differently?
-3. How are sales and returns changing over time?
-4. What is the return rate?
-5. Which products have the highest return rates?
-6. What are the most common reasons for products being returned?
-7. How does performance change when filtering by region, product or time period?
+### 📌 Recommendations
+
+### 📈 Next Steps (Future Enhancements)
