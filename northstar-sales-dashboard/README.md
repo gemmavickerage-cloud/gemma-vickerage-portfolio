@@ -55,3 +55,13 @@ The dashboard brings together sales, returns, product, store and date data to an
 ### 📌 Recommendations
 
 ### 📈 Next Steps (Future Enhancements)
+## Next Steps
+
+Future enhancements could include:
+1. Connecting the dashboard to a live data source and implementing scheduled refreshes.
+2. Adding financial analysis of returns to understand the cost and business impact of returned products.
+3. Introducing forecasting to identify future sales and return trends.
+4. Adding drill-through pages for more detailed product and regional analysis.
+5. Expanding the KPI set to include measures such as YoY growth, average order value and target achievement.
+6. Further optimising the data model and DAX measures as data volumes increase.
+7. Continuing to improve the user experience through navigation, tooltips and interactive report features.
